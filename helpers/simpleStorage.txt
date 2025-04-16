@@ -1,0 +1,10 @@
+Cool things learnt 
+- Introduced to solidity programming
+- How smart contract really operate
+- Created a smart contarct making use of
+    ->basic variable, arrays,functions
+    -> mappings for efficient queries
+- Smart contract deployment - testnet network
+    -> Ethereum testnet(Layer1)- expensive 
+    -> Zksync sepolia testnet(Layer2) - cheap, fast
+
